@@ -5,8 +5,7 @@ One of the most famous theories in sports analysis is the pythagorean expectatio
 
 On testing this in the case of cricket - in particular, all the T20 World Cup matches ever played, we find that this relation is indeed quite a strong one. In statistics, the p-value describes the correlation between two variables. The closer the p-value is to 0, the stronger the relationship between the variable: in this case, the win percentage and the pythagorean expectation. We get the p-value to be as low as 0.01
 
-
-
+![alt text](https://github.com/saravanac5a/pythagorean-expectation/blob/master/T20WC pythvswpc.png?raw=true)
 
 What does the graph tell us about outliers? If you consider Bangladesh, they have a relatively high Pythagorean expectation of 0.47 but have a win ratio of only 0.21 to show for it. So statistically speaking, Bangladesh should’ve won a lot more games than they managed to, which means they underperformed and lost quite a few crunch games.
 
